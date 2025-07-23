@@ -6,4 +6,9 @@ Hi, I'm William, a student at UNF pursing a B.S. in Statistics minoring in Compu
 I'm passionate about data analytics and using it to drive businesses forward.
 
 # Projects
-View below for some of my work.
+Select "UNF_Projects" to see my mosst recent work
+
+Files are organized by "ProjectName_FileType"
+Ex: 2DArray_MAIN.c
+
+Files with the same "ProjectName" are to be considered as one project.
